@@ -1,0 +1,31 @@
+.input {
+    background-color: rgb(218, 164, 66);
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+}
+.input:hover {
+    background-color: rgb(255, 198, 91);
+    border-radius: 5px;
+
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: center;
+    border-radius: 10px;
+    border-color: red;
+    height: 50vh;
+}
+input {
+    text-align: center;
+}
+html {
+    font-family: helvetica;
+}
+p {
+    display: flex;
+    flex-direction: column;
+    height: 550px;
+}
